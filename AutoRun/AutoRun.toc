@@ -1,0 +1,8 @@
+## Interface:      100007
+## Title:          AutoRun
+## Notes:          Addon that automatically runs small custom scripts.
+## Author:         Kumodatsu
+## SavedVariables: AUTO_RUN_DB
+## Version:        0.1.0
+
+src\AutoRun.lua
